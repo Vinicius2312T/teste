@@ -1,2 +1,2 @@
 # teste
-aprendno a usar o git 
+aprendeno a usar o git 
